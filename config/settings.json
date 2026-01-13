@@ -1,7 +1,7 @@
 {
   "nasa_api": {
     "base_url": "https://api.nasa.gov/planetary/apod",
-    "api_key": "DEMO_KEY"
+    "api_key": "__api_key__"
   },
   "paths": {
     "images": "output/images",
