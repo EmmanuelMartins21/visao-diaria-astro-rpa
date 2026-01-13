@@ -27,7 +27,6 @@ class NasaApiService:
 
             response.raise_for_status()
             data = response.json()
-            print(data)
 
             return self._normalize_response(data)
 
