@@ -67,6 +67,8 @@ visao-diaria-astro-rpa/
 
 - Python 3.9+
 - Conta NASA API (gratuita em https://api.nasa.gov)
+  <img width="1061" height="723" alt="image" src="https://github.com/user-attachments/assets/609764ac-2174-4732-8677-a826468c2ccc" />
+
 - Conta WhatsApp Business ou pywhatkit
 
 ### Instalação de Dependências
