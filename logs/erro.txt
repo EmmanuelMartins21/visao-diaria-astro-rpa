@@ -1,0 +1,5 @@
+[12/01/2026 22:40:54] Erro ao salvar imagem: NOT NULL constraint failed: imagens.url
+[12/01/2026 22:41:43] Erro ao salvar imagem: NOT NULL constraint failed: imagens.url
+[12/01/2026 22:42:25] Erro ao salvar imagem: NOT NULL constraint failed: imagens.url
+[12/01/2026 22:42:40] Erro ao salvar imagem: NOT NULL constraint failed: imagens.url
+[12/01/2026 22:43:29] Erro ao salvar imagem: NOT NULL constraint failed: imagens.url
