@@ -35,7 +35,7 @@ jobs:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}
         run: |
           # Use alternate sed delimiter (|) so slashes in the secret don't break the command
-          sed -i "s|__api_key__|${NASA_API_KEY}|g" settings.json
+          sed -i "s|__api_key__|${NASA_API_KEY}|g" config/settings.json
 
       - name: Lint with flake8
         run: |
